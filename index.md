@@ -1,5 +1,8 @@
-# H1 hello world
-* lorem ipsum
-* dolor sit amet
+lorem ipsum dolor sit amet
+let me practice my dvorak
+not quite viable yet jeez
 
-## H2
+# hello world
+1. hitotsu
+2. futatsu
+3. mittsu
